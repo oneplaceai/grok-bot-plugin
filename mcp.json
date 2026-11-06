@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "one-place": {
+      "url": "https://api.one-place.com/mcp/auth",
+      "auth": {
+        "CLIENT_ID": "grok-bot",
+        "scopes": ["listings.read", "saved_searches.write", "leads.write"]
+      }
+    }
+  }
+}

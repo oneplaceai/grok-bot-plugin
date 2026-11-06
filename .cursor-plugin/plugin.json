@@ -1,0 +1,22 @@
+{
+  "name": "one-place",
+  "version": "1.0.0",
+  "description": "Find homes for sale and for long-term rent in Europe with One Place, read the details of a listing, and save searches that email you new matches.",
+  "author": {
+    "name": "One Place",
+    "email": "support@one-place.com"
+  },
+  "homepage": "https://one-place.com",
+  "license": "Proprietary",
+  "keywords": [
+    "real estate",
+    "property",
+    "homes for sale",
+    "apartments for rent",
+    "house search",
+    "Europe"
+  ],
+  "logo": "https://one-place.com/android-chrome-512x512.png",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
